@@ -1,0 +1,7 @@
+{
+  "name": "Clash Kids Turkiye",
+  "description": "A creative Supercell-themed playground for children in Turkiye featuring character generation, Bilsem logic puzzles, and coloring.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
